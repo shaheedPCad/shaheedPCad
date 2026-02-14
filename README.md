@@ -1,94 +1,137 @@
-<div align="center">
+# Shaheed Mohamed Ali
 
-# 🌟 Welcome to Shaheed Mohamed Ali's Profile 🌟
+```typescript
+const profile = {
+  name: "Shaheed Mohamed Ali",
+  bio: "software engineer, UWaterloo",
+  currentWork: "Vulkan Game engine",
+  interests: "software engineer · fullstack · ai  · graphics",
+  skills: [
+    "React",
+    "HTML5",
+    "CSS3",
+    "Next.js",
+    "Node.js",
+    "Express",
+    "Django",
+    ".NET",
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Azure",
+    "PyTorch",
+    "Scikit-Learn",
+    "Keras",
+    "NumPy",
+    "Pandas",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "C++",
+    "C",
+    "C#"
+  ],
+}
+```
 
-<p><em>software engineer, UWaterloo</em></p>
-
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
-
-</div>
-
-<hr>
-
-## 🔭 I'm currently working on
-
-<div align="center"><p>Vulkan Game engine</p></div>
 
 ## 👀 I'm interested in
 
-<div align="center"><p>software engineer · fullstack · ai  · graphics</p></div>
+software engineer · fullstack · ai  · graphics
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'shaheedPCad' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaheedPCad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaheedPCad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'shaheedPCad' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheedPCad&layout=compact&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheedPCad&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ## 🔥 Contribution Streak
 
 <!-- ⚠️ Important: Replace 'shaheedPCad' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheedPCad&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheedPCad&theme=dark&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&color=ff69b4">
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Django-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-.NET-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&color=4169e1">
-
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&color=9370db"> <img src="https://img.shields.io/badge/-Azure-05122A?style=for-the-badge&color=9370db">
-
-### 🧠 AI/ML
-
-<img src="https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Scikit-Learn-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Keras-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&color=00CED1">
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-C#-05122A?style=for-the-badge&color=FFA500">
-
-</div>
+```json
+{
+  "frontend": [
+    "React",
+    "HTML5",
+    "CSS3",
+    "Next.js"
+  ],
+  "backend": [
+    "Node.js",
+    "Express",
+    "Django",
+    ".NET",
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL"
+  ],
+  "devops": [
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Azure"
+  ],
+  "ai/ml": [
+    "PyTorch",
+    "Scikit-Learn",
+    "Keras",
+    "NumPy",
+    "Pandas"
+  ],
+  "languages": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "C++",
+    "C",
+    "C#"
+  ]
+}
+```
 
 ## 🌐 Socials
 
-<div align="center">
+```javascript
+const socials = {
+  github: "shaheedPCad",
+  linkedin: "shaheedmo",
+  twitter: "shaheedmali",
+  website: "https://shaheedmohamedali.com/",
+}
+```
 
-<a href="https://github.com/shaheedPCad"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/shaheedmo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> <a href="https://x.com/shaheedmali"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=6bdfcf"></a> 
-
+<div>
+<a href="https://www.linkedin.com/in/shaheedmo"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/shaheedPCad"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://shaheedmohamedali.com/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://x.com/shaheedmali"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </div>
 
 ## 📫 How to reach me
 
-<div align="center">
+```javascript
+const contact = {
+  email: "smohamed@uwaterloo.ca",
+}
+```
 
-**Email:** smohamed@uwaterloo.ca
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
 
-</div>
-
-<div align="center">
-
-<!-- ⚠️ Important: Replace 'shaheedPCad' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=shaheedPCad&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/shaheedPCad?style=for-the-badge&color=ff69b4" alt="Followers"/>
-
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
-
-</div>
+process.exit(0); // Until next time 👋
+```
